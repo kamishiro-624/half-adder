@@ -1,5 +1,5 @@
 # half-adder
-A half-adder, adds two bits and generates two outputs: sum and carry.
+A half-adder, adds two bits and generates two outputs: sum and carry. I have my own 10K and switch.
 
 ## Schematic
 <img width="1890" height="807" alt="image" src="https://github.com/user-attachments/assets/2000a268-9c11-4389-a07b-c3174931f6ec" />
