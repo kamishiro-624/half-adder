@@ -1,0 +1,10 @@
+﻿Designator,Footprint,Quantity,Value,LCSC Part #
+BT1,BatteryHolder_Keystone_3034_1x20mm,1,Device_Battery_Cell,
+"Q1, Q10, Q2, Q3, Q4, Q5, Q6, Q7, Q8, Q9",TO-92L_HandSolder,10,MMBT13001SA,
+"R1, R10, R11, R14, R15, R17, R2, R3, R4, R5, R6, R7, R8, R9",R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal,14,10K,
+"R12, R18",R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal,2,4.7K,
+"R13, R19",R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal,2,1.2K,
+"R16, R20",R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal,2,470,
+SW1,SW_Slide_SPDT_Straight_CK_OS102011MS2Q,1,SW_SPDT,
+"SW2, SW3",SW_PUSH_6mm,2,SW_Push,
+"U4, U5",LED_D5.0mm,2,LED,
